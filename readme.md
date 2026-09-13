@@ -11,7 +11,7 @@ Git looks like a magic box: you throw your code in, and if something goes wrong,
 ## Installation
 
 ```bash
-git clone <this repo>
+git clone https://github.com/ForTheFire/mewit-py
 cd mewit
 pip install psutil
 pip install -e .
